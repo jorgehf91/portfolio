@@ -1,3 +1,5 @@
+$primary-color: #E900FF;
+
 .text-animate {
     display: inline-block;
     opacity: 0;
@@ -14,7 +16,7 @@
 
     &:hover {
         animation: rubberBand 1s;
-        color: #ffd700;
+        color: $primary-color;
     }
 
 }

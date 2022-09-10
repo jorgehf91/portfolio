@@ -1,3 +1,5 @@
+$primary-color: #E900FF;
+
 .home-page {
     
     .text-zone {
@@ -10,7 +12,7 @@
     }
 
     h1 {
-        color: #fff;
+        color: #FFC600;
         font-size: 53px;
         margin: 0;
         font-family: 'Coolvetica';
@@ -19,7 +21,7 @@
         &::before {
             content: '<h1>';
             font-family: 'La Belle Aurore';
-            color: #ffd700;
+            color: $primary-color;
             font-size: 18px;
             position: absolute;
             margin-top: -40px;
@@ -30,7 +32,7 @@
         &::after {
             content: '</h1>';
             font-family: 'La Belle Aurore';
-            color: #ffd700;
+            color: $primary-color;
             font-size: 18px;
             position: absolute;
             margin-top: 18px;
@@ -50,7 +52,7 @@
     }
 
     h2 {
-        color: #8d8d8d;
+        color: $primary-color;
         margin-top: 20px;
         font-weight: 400;
         font-size: 11px;
@@ -60,22 +62,22 @@
     }
 
     .flat-button {
-        color: #ffd700;
+        color: $primary-color;
         font-size: 13px;
         font-weight: 400;
         letter-spacing: 4px;
         font-family: sans-serif;
         text-decoration: none;
         padding: 10px 18px;
-        border: 1px solid #ffd700;
+        border: 1px solid $primary-color;
         margin-top: 25px;
         float: left;
         animation: fadeIn 1s 1.8s backwards;
         white-space: nowrap;
 
         &:hover {
-            background: #ffd700;
-            color: #333;
+            background: $primary-color;
+            color: #5800FF;
         }
     }
 }

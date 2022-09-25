@@ -1,27 +1,33 @@
 {
     "portfolio" : [
         {
+            "cover" : "/portfolio/Meme-Generator.png",
+            "title" : "Meme Generator",
+            "description" : "React, JSX, CSS, HTML",
+            "url" : "https://jorgehf91.github.io/memegenerator/"
+        },
+        {
             "cover" : "/portfolio/test.png",
-            "title" : "TEST",
-            "description" : "React, JSX, Tailwind, Jest",
+            "title" : "Travel Journal",
+            "description" : "React, JSX, CSS, HTML",
             "url" : "https://google.com"
         },
         {
             "cover" : "/portfolio/test.png",
-            "title" : "TEST",
-            "description" : "React, JSX, Tailwind, Jest",
+            "title" : "Library",
+            "description" : "Vanilla JS, HTML, CSS",
             "url" : "https://google.com"
         },
         {
             "cover" : "/portfolio/test.png",
-            "title" : "TEST",
-            "description" : "React, JSX, Tailwind, Jest",
+            "title" : "Etch-A-Sketch",
+            "description" : "Vanilla JS, HTML, CSS",
             "url" : "https://google.com"
         },
         {
             "cover" : "/portfolio/test.png",
-            "title" : "TEST",
-            "description" : "React, JSX, Tailwind, Jest",
+            "title" : "Rock, Paper, Scissors",
+            "description" : "Vanilla JS, HTML, CSS",
             "url" : "https://google.com"
         }
     ]

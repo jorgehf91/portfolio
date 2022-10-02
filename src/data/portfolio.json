@@ -7,28 +7,28 @@
             "url" : "https://jorgehf91.github.io/memegenerator/"
         },
         {
-            "cover" : "/portfolio/test.png",
+            "cover" : "/portfolio/Travel-Journal.png",
             "title" : "Travel Journal",
             "description" : "React, JSX, CSS, HTML",
-            "url" : "https://google.com"
+            "url" : "https://jorgehf91.github.io/travel-journal/"
         },
         {
-            "cover" : "/portfolio/test.png",
+            "cover" : "/portfolio/library.png",
             "title" : "Library",
-            "description" : "Vanilla JS, HTML, CSS",
-            "url" : "https://google.com"
+            "description" : "(vanilla) JS, HTML, CSS",
+            "url" : "https://jorgehf91.github.io/library/"
         },
         {
-            "cover" : "/portfolio/test.png",
+            "cover" : "/portfolio/Etch-A-Sketch.png",
             "title" : "Etch-A-Sketch",
-            "description" : "Vanilla JS, HTML, CSS",
-            "url" : "https://google.com"
+            "description" : "(vanilla) JS, HTML, CSS",
+            "url" : "https://jorgehf91.github.io/etch-a-sketch/"
         },
         {
-            "cover" : "/portfolio/test.png",
+            "cover" : "/portfolio/Rock-Paper-and-Scissors.png",
             "title" : "Rock, Paper, Scissors",
             "description" : "Vanilla JS, HTML, CSS",
-            "url" : "https://google.com"
+            "url" : "https://jorgehf91.github.io/rockpaperscissors/"
         }
     ]
 }

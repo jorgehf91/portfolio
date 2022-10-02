@@ -111,14 +111,14 @@ const Contact = () => {
                     <br />
                     Peru,
                     <br />
-                    Jr. Sagitario Mz16 lt 44, <br />
+                    Jr. Sagitario, <br />
                     Santiago de Surco <br />
                     <span>jorgehrtado91@gmail.com</span>
                 </div>
                 <div className='map-wrap'>
-                    <MapContainer center={[-12.163694, -76.994205]} zoom={13}>
+                    <MapContainer center={[-12.175653, -76.985464]} zoom={13}>
                         <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
-                        <Marker position={[-12.163694, -76.994205]}>
+                        <Marker position={[-12.175653, -76.985464]}>
                             <Popup>
                                 My home :)
                             </Popup>
